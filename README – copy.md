@@ -1,6 +1,6 @@
-Live Demo
+## Live Demo
 
-Try Money Tracker Online
+[Try Money Tracker Online](https://relax-tg.github.io/money-tracker/)
 
 # Money Tracker
 
