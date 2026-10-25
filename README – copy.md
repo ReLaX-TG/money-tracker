@@ -1,4 +1,6 @@
-## Live Demo## Features
+## Live Demo## 
+
+Features
 
 - Add income and expense transactions
 - Track your current balance automatically
