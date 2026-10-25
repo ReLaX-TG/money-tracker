@@ -1,3 +1,7 @@
+Live Demo
+
+Try Money Tracker Online
+
 # Money Tracker
 
 Money Tracker is a simple web application for tracking personal income and expenses, created with the help of AI.
