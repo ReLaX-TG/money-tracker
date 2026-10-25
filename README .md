@@ -2,6 +2,10 @@
 
 [Try Money Tracker Online](https://relax-tg.github.io/money-tracker/)
 
+## Screenshot
+
+![Money Tracker Screenshot](https://github.com/ReLaX-TG/money-tracker/blob/main/photo.png)
+
 # Money Tracker
 
 Money Tracker is a simple web application for tracking personal income and expenses, created with the help of AI.
