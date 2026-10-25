@@ -1,4 +1,11 @@
-## Live Demo
+## Live Demo## Features
+
+- Add income and expense transactions
+- Track your current balance automatically
+- Organize expenses by category
+- View expense analytics with percentages and charts
+- Delete transactions
+- Save data in the browser using localStorage
 
 [Try Money Tracker Online](https://relax-tg.github.io/money-tracker/)
 
